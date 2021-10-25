@@ -162,7 +162,7 @@ zone "franky.ti6.com" {
 Pada EniesLobby, tambahkan DNS record pada `/etc/bind/kaizoku/franky.ti6.com`
 
 ```bash
-ns1     IN      A       $SKYPIE_IP     
+ns1     IN      A       $WATER7_IP     
 mecha   IN      NS      ns1
 ```
 
