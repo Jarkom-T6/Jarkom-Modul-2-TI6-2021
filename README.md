@@ -51,7 +51,7 @@ Lalu tambahkan folder *kaizoku,* dan edit konfigurasi **franky.ti6.com** di `/et
                          604800 )       ; Negative Cache TTL
 ;
 @       IN      NS      franky.ti6.com.
-@       IN      A       $SKYPIE_IP
+@       IN      A       $ENIESLOBBY_IP
 www     IN      CNAME   franky.ti6.com.
 ```
 
