@@ -121,7 +121,7 @@ Copykan `/etc/bind/db.local` ke `/etc/bind/kaizoku/$PTR_RECORD` pada EniesLobby 
                          604800 )       ; Negative Cache TTL
 ;
 $PTR_RECORD.       IN      NS      franky.ti6.com.
-4                  IN      PTR     franky.ti6.com. ; byte ke 4 dari $SKYPIE_IP
+2                  IN      PTR     franky.ti6.com. ; byte ke 4 dari $ENIESLOBBY_P
 ```
 
 ***Hasil Output:***
