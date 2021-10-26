@@ -1,6 +1,6 @@
 # Jarkom-Modul-2-TI6-2021
 
-# Kelompok T6:
+## Anggota Kelompok T6:
 
 - Syakhisk Al-Azmi 05311940000003
 - Muhammad Rizqi Wijaya 05311940000014
@@ -516,3 +516,9 @@ RewriteRule ^(.*)/ /public/images/franky.png [L,R=301]
 ![Untitled](Laporan%20Jarkom%2019777f3848be4b1da71407bef4406200/Untitled%2030.png)
 
 ![Untitled](Laporan%20Jarkom%2019777f3848be4b1da71407bef4406200/Untitled%2031.png)
+
+# Kendala yang Dialami:
+
+- Dua anggota kelompok tidak bisa melakukan apt update pada gns3nya.
+- Beberapa soal yang sedikit ambigu sehingga dilakukan beberapa kali revisi setelah bertanya kepada asisten.
+- Agak kesulitan di logic .htaccess pada nomor 17, namun akhirnya berhasil.
