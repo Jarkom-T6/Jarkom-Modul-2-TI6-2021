@@ -340,8 +340,8 @@ Buat VirtualHost dan tambahkan konfigurasi FollowSymLinks dan Multiviews untuk s
 Pada Skypie, tambahkan konfigurasi Indexes masing-masing folder pada virtual host super.franky di  `/etc/apache2/sites-available/super.franky.ti6.com.conf`.
 
 ```bash
-				 <Directory /var/www/super.franky.ti6.com/public>
-             Options Indexes
+	<Directory /var/www/super.franky.ti6.com/public>
+             Options +Indexes
              AllowOverride All
          </Directory>
          <Directory /var/www/super.franky.ti6.com/error>
