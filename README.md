@@ -78,7 +78,7 @@ Tambahkan DNS record pada `/etc/bind/kaizoku/franky.ti6.com` pada EniesLobby.
 super   IN      A       $SKYPIE_IP
 ```
 
-Lalu edit konfigurasi **super.franky.ti6.com** di ****`/etc/bind/kaizoku/super.franky.ti6.com` pada EniesLobby.
+Lalu edit konfigurasi **super.franky.ti6.com** di `/etc/bind/kaizoku/super.franky.ti6.com` pada EniesLobby.
 
 ```bash
 \$TTL    604800
