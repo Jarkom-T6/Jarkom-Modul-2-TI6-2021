@@ -181,8 +181,6 @@ options {
 };
 ```
 
-Tambahkan juga 
-
 Pada Water7, tambahkan zone **mecha.franky.ti6.com** di `/etc/bind/named.conf.local`
 
 ```bash
